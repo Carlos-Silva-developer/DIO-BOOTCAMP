@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="651a3c7e-6853-415d-916f-20ffe4bb6efb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_8_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kotlin-Basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VcCfbeEtHy18dnttFft398XwKp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PROJETOS/DIO/DIO-BOOTCAMP&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PROJETOS\DIO\DIO-BOOTCAMP\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="DIO-BOOTCAMP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DIO-BOOTCAMP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DIO-BOOTCAMP" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="651a3c7e-6853-415d-916f-20ffe4bb6efb" name="Changes" comment="" />
+      <created>1695126085443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695126085443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
